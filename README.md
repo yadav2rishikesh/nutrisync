@@ -145,4 +145,5 @@ backend
 - Om Shete
 - SaiKaushik Sadu
 - Altaf Alam
-- Sarah Khan
+- Rishikesh Yadav
+- 
